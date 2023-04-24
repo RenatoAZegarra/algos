@@ -68,17 +68,17 @@ function binarySearch(sortedNums, searchNum) {
   Bonus: Keep it O(n) time even if it is not sorted
 */
 
-const nums1 = [1, 1, 1, 1];
-const expected1 = [1];
+const nums5 = [1, 1, 1, 1];
+const expected5 = [1];
 
-const nums2 = [1, 1, 2, 2, 3, 3];
-const expected2 = [1, 2, 3];
+const nums6 = [1, 1, 2, 2, 3, 3];
+const expected6 = [1, 2, 3];
 
-const nums3 = [1, 1, 2, 3, 3, 4];
-const expected3 = [1, 2, 3, 4];
+const nums7 = [1, 1, 2, 3, 3, 4];
+const expected7 = [1, 2, 3, 4];
 
-const nums4 = [1, 1];
-const expected4 = [1];
+const nums8 = [1, 1];
+const expected8 = [1];
 
 /**
  * De-dupes the given sorted array.
