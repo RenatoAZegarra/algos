@@ -92,4 +92,4 @@ function lowestCommonMultiple(a, b, product = a) {
   }
   return lowestCommonMultiple(a, b, product + a);
 }
-console.log(lowestCommonMultiple(num5A,num5B))
+console.log(lowestCommonMultiple(num4A,num4B))
